@@ -91,7 +91,7 @@ The project is organized using a simple separation between UI, game logic, and d
 ## 📂 Project Structure
 
 ```text
-com.example.assignment1/
+com.example.Stone-Dodger-Game/
 ├── MainActivity.java      # UI Controller and Game Loop
 ├── GameManager.java       # Game logic, matrix handling, stone movement, and collisions
 ├── SignalManager.java     # Toast and vibration helper using Singleton pattern
@@ -105,7 +105,7 @@ com.example.assignment1/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/EmilyMyaskovski/assignment1.git
+git clone https://github.com/EmilyMyaskovski/Stone-Dodger-Game.git
 ```
 
 ### 2. Open in Android Studio
