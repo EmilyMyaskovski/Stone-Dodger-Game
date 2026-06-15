@@ -149,4 +149,4 @@ This project was created as part of an Android development course assignment.
 ## 👩‍💻 Author
 
 **Emily Myaskovski**
-GitHub Profile: `https://github.com/Emily`
+GitHub Profile: `https://github.com/EmilyMyaskovski`
